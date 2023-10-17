@@ -15,7 +15,7 @@ This is part of my workbook from Full stack dev course at [BIT](https://bit.lt/)
 
 ## 🎯 Project features/goals
 
--   basic [HTML (structure)](https://www.w3schools.com/TAGS/default.asp) and CSS (style)
+-   Basic [HTML (structure)](https://www.w3schools.com/TAGS/default.asp) and CSS (style)
 
 ## 🧰 Getting Started
 
