@@ -3,19 +3,26 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# 02_html-intro
+# BIT Full stack developer course – Part 2. Introduction to HTML and CSS.
 
-_Part of the BIT Full Stack Developer course_
+_My journey to become a full stack developer_
 
 <br>
 
 ## 🌟 About
 
-This is part of my workbook from Full stack dev course at [BIT](https://bit.lt/)
+This is a part of my workbook from Full stack developers course at [BIT](https://bit.lt/)
+This is the second part of the course – Introduction to HTML and CSS.
+
+## 🧭 Other repositories from same course
+1. [General programming skils and JS](https://github.com/madrakas/bit_01_Intro_to_programming_and_JS/)
+2. Intro to HTML and CSS (Current repository)
+3. item three
+4. item four
 
 ## 🎯 Project features/goals
 
--   Basic [HTML (structure)](https://www.w3schools.com/TAGS/default.asp) and CSS (style)
+-   Basic [HTML (structure)](https://www.w3schools.com/TAGS/default.asp) and [CSS](https://www.w3schools.com/css/default.asp) (style)
 
 ## 🧰 Getting Started
 
