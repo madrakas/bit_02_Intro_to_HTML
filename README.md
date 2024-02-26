@@ -28,38 +28,19 @@ This is the second part of the course – Introduction to HTML and CSS.
 
 ### 💻 Prerequisites
 
-Node.js - _download and install_
-
-```
-https://nodejs.org
-```
-
-Git - _download and install_
-
-```
-https://git-scm.com
-```
+Web browser
 
 ### 🏃 Run locally
 
-Would like to run this project locally? Open terminal and follow these steps:
+Would like to run this project locally? Follow these steps:
 
 1. Clone the repo
     ```sh
     git clone https://github.com/madrakas/02_html-intro.git
     ```
-2. Install NPM packages
-    ```sh
-    npm i
-    ```
-    or
-    ```sh
-    npm install
-    ```
-3. Run the one of the scripts fron package.json file
-    ```sh
-    npm run string
-    ```
+2. Edit your files in you favorite etext editor.
+   
+4. Open index.html file in your web browser app.
 
 ### 🧪 Running tests
 
