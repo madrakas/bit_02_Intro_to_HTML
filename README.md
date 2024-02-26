@@ -36,7 +36,7 @@ Would like to run this project locally? Follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/madrakas/02_html-intro.git
+    git clone https://github.com/madrakas/bit_02_Intro_to_html.git
     ```
 2. Edit your files in you favorite etext editor.
    
