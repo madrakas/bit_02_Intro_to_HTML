@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Tech-HTML%2C%20CSS-green?style=flat)
+![Static Badge](https://img.shields.io/badge/Tech-HTML%2C%20CSS-orange?style=flat)
 ![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/%20Coffe-Free-yellow)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
@@ -39,9 +39,9 @@ Would like to run this project locally? Follow these steps:
     ```sh
     git clone https://github.com/madrakas/bit_02_Intro_to_html.git
     ```
-2. Edit your files in you favorite etext editor.
+2. Edit your cloned in you favorite text editor.
    
-4. Open index.html file in your web browser app.
+4. To view results, open index.html file in your web browser app.
 
 ### 🧪 Running tests
 
