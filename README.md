@@ -1,4 +1,4 @@
-![![Static Badge](https://img.shields.io/badge/Tech-HTML%2C%20CSS-green?style=flat)]
+![Static Badge](https://img.shields.io/badge/Tech-HTML%2C%20CSS-green?style=flat)
 ![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 ![Static Badge](https://img.shields.io/badge/%20Coffe-Free-yellow)
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
