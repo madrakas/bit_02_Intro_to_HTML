@@ -18,7 +18,7 @@ This is the second part of the course – Introduction to HTML and CSS.
 ## 🧭 Other repositories from same course
 1. [General programming skils and JS](https://github.com/madrakas/bit_01_Intro_to_programming_and_JS/)
 2. Intro to HTML and CSS (Current repository)
-3. item three
+3. [HTML and CSS basics, UFO 404 page](https://github.com/madrakas/bit_03_html-ufo)
 4. item four
 
 ## 🎯 Project features/goals
